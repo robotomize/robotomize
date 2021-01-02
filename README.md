@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I'am software enginner, indie tech
 
-- 🔭 I’m currently working on multiplayer services
+- 🔭 I’m currently working on multiplayer services, UDP, TCP
 - 🌱 I’m currently alg, go, ml, python, ts, flutter etc
 - ⚡ Fun fact: 🕺 👨‍💻 🤘 📖
 - 🖥🖱🌍 Simple site: [robotomize.me](https://robotomize.me)
