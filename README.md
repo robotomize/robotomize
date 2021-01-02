@@ -8,7 +8,7 @@
 - 🖥🖱🌍 Simple site: [robotomize.me](https://robotomize.me)
 
 ### 🐶 My pet projects
-- [fliger.io](https://fliger.io) - Recognition of emotions in the comments
+- [Fliger](https://fliger.io) - Recognition of emotions in the comments
 - [SOD](https://github.com/fliger-io/sod) - Analysis of anomalies
 - [Bloops](https://github.com/robotomize/bloops) - 🤖 Telegram bot for offline quizzes
 
