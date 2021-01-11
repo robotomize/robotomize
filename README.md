@@ -1,9 +1,9 @@
 ## Hi everyone 👋
 
-## 👨‍💻 I'am software enginner, indie tech
+## 👨‍💻 I'am software enginner
 
 - 🔭 I’m currently working on multiplayer services, UDP, TCP
-- 🌱 I’m currently alg, go, ml, python, ts, flutter etc
+- 🌱 I’m currently studying algorithms, Go, ML, Python, TS
 - ⚡ Fun fact: 🕺 👨‍💻 🤘 📖
 - 🖥🖱🌍 Simple site: [robotomize.me](https://robotomize.me)
 
