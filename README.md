@@ -1,13 +1,13 @@
 ## Hi everyone 👋
 
-## 👨‍💻 I'am software enginner
+## 👨‍💻 I'am software engineer
 
-- 🔭 I’m currently working on multiplayer services, UDP, TCP
-- 🌱 I’m currently studying algorithms, Go, ML, Python, TS
-- ⚡ Fun fact: 🕺 👨‍💻 🤘 📖
+- 🔭 I’m currently working on multiplayer services with UDP/TCP
+- 🌱 I’m currently learning algorithms, Go, ML, Python, TS
+- ⚡ Fun facts: 🕺 👨‍💻 🤘 📖
 - 🖥🖱🌍 Simple site: [robotomize.me](https://robotomize.me)
 
-### 🐶 My pet projects
+### 🐶 My indie projects
 - [Fliger](https://fliger.io) - Recognition of emotions in the comments
 - [SOD](https://github.com/fliger-io/sod) - Analysis of anomalies
 - [Bloops](https://github.com/robotomize/bloops) - 🤖 Telegram bot for offline quizzes
