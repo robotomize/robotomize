@@ -2,15 +2,14 @@
 
 ## 👨‍💻 I'am software engineer
 
-- 🔭 I’m currently working on multiplayer services with UDP/TCP
-- 🌱 I’m currently learning algorithms, Go, ML, Python, TS
+- 🔭 I’m currently working on Go web services
+- 🌱 I’m currently learning Python
 - ⚡ Fun facts: 🕺 👨‍💻 🤘 📖
-- 🖥🖱🌍 Simple site: [robotomize.me](https://robotomize.me)
+- 🖥🖱🌍 My page: [robotomize.me](https://robotomize.me)
 
 ### 🐶 My indie projects
 - [Fliger](https://fliger.io) - Recognition of emotions in the comments
-- [SOD](https://github.com/fliger-io/sod) - Analysis of anomalies
-- [Bloops](https://github.com/robotomize/bloops) - 🤖 Telegram bot for offline quizzes
+- [Bloops](https://bloops.fun) - 🤖 Telegram bot for offline quizzes
 
 ### 🐱‍💻 Languages and tools
 ![Go](https://img.shields.io/badge/-Go-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
