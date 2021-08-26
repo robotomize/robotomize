@@ -2,9 +2,9 @@
 
 ## 👨‍💻 I'am software engineer
 
-- 🔭 I’m currently working on Go web services
-- 🌱 I’m currently learning Python
-- ⚡ Fun facts: 🕺 👨‍💻 🤘 📖
+- 🔭 I’m currently working on Go
+- 🌱 I’m currently learning Python, Dart
+- ⚡ Fun facts: 🕺 👨‍💻 🤘 📖 🏂
 - 🖥🖱🌍 My page: [robotomize.me](https://robotomize.me)
 
 ### 🐶 My indie projects
