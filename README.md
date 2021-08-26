@@ -13,10 +13,9 @@
 
 ### 🐱‍💻 Languages and tools
 ![Go](https://img.shields.io/badge/-Go-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
-![Node.js](https://img.shields.io/badge/-Node.js-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
+![Python](https://img.shields.io/badge/-Python-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
 ![JS](https://img.shields.io/badge/-JS-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/-PHP-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
-![Python](https://img.shields.io/badge/-Python-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
 
 ### 📫 Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/robotomize)
