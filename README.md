@@ -1,4 +1,7 @@
 ## Hi everyone 👋
+Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I’ve also done a bit of game multiplayer development.
+
+Currently using Go. I also use JavaScript/TypeScript,Python, PHP
 
 ## 👨‍💻 I'am software engineer
 
