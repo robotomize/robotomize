@@ -1,24 +1,23 @@
 ## Hi everyone 👋
-Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I’ve also done a bit of game multiplayer development.
-
-Currently using Go. I also use JavaScript/TypeScript,Python, PHP
+Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I also tried a little bit to develop the game multiplayer on UDP
 
 ## 👨‍💻 I'am software engineer
 
-- 🔭 I’m currently working on Go
-- 🌱 I’m currently learning Python, Dart
+- 👨‍💻 I currently use Go and I love it! 
+- 🌱 I like learning Dart and developing tiny projects in Python
+- 🔭 I'm looking at Rust 
+- 😈 Previously, I used PHP and JavasScript 
+- 👽 Also, I did a little work on Node.js and TypeScript 
+- 👻 A long time ago, when mammoths walked the earth 😂, I did a little development in Perl and C#  It's horrifying
+  now [Twiilog](https://github.com/robotomize/twiilog)
 - ⚡ Fun facts: 🕺 👨‍💻 🤘 📖 🏂
 - 🖥🖱🌍 My page: [robotomize.me](https://robotomize.me)
-
+ 
 ### 🐶 My indie projects
 - [Fliger](https://fliger.io) - Recognition of emotions in the comments
 - [Bloops](https://bloops.fun) - 🤖 Telegram bot for offline quizzes
-
-### 🐱‍💻 Languages and tools
-![Go](https://img.shields.io/badge/-Go-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
-![Python](https://img.shields.io/badge/-Python-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
-![JS](https://img.shields.io/badge/-JS-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
-![PHP](https://img.shields.io/badge/-PHP-00BFFF?style=for-the-badge&logo=go&logoColor=FFF)
+- [Cribe](https://github.com/robotomize/cribe) - is a telegram bot for downloading youtube videos
+- [Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - get the local time in the selected location
 
 ### 📫 Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/robotomize)
