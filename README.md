@@ -1,5 +1,5 @@
 ## Hi everyone 👋
-Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools. I also tried a little bit to develop the game multiplayer on UDP
+Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools
 
 ## 👨‍💻 I'am software engineer
 
