@@ -18,6 +18,7 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 - [Bloops](https://bloops.fun) - 🤖 Telegram bot for offline quizzes
 - [Cribe](https://github.com/robotomize/cribe) - is a telegram bot for downloading youtube videos
 - [Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - get the local time in the selected location
+- [t2r-bot](https://github.com/robotomize/t2r-bot) - get tor relays
 
 ### 📫 Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/robotomize)
