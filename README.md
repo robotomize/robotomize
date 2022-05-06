@@ -20,7 +20,7 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 - [t2r-bot](https://github.com/robotomize/t2r-bot) - get tor relays
 - [mypass](https://github.com/pollylab/mypass-cli) - password manager
 
-### Libs
+### 📚 Libs
 - [go-ratelimiter](https://github.com/robotomize/go-ratelimiter) - rate limit package
 - [gokuu](https://github.com/robotomize/gokuu) currency exchange package
 - [sod](https://github.com/robotomize/sod) - anomaly detection service
