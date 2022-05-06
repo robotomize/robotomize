@@ -14,12 +14,16 @@ Software engineer 🧑💻. I have experience in creating web services, telegram
 - 🖥🖱🌍 My page: [robotomize.me](https://robotomize.me)
  
 ### 🐶 My indie projects
-- [Fliger](https://fliger.io) - Recognition of emotions in the comments
-- [Bloops](https://bloops.fun) - 🤖 Telegram bot for offline quizzes
+- [Bloops](https://bloops.fun) - 🤖 Telegram bot for offline quizzes with your friends
 - [Cribe](https://github.com/robotomize/cribe) - is a telegram bot for downloading youtube videos
-- [Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - get the local time in the selected location
+- [Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - is a telegram bot for getting local time in location
 - [t2r-bot](https://github.com/robotomize/t2r-bot) - get tor relays
-- [mypass](https://github.com/pollylab/mypass-cli) - simple password manager
+- [mypass](https://github.com/pollylab/mypass-cli) - password manager
+
+### Libs
+- [go-ratelimiter](https://github.com/robotomize/go-ratelimiter) - rate limit package
+- [gokuu](https://github.com/robotomize/gokuu) currency exchange package
+- [sod](https://github.com/robotomize/sod) - anomaly detection service
 
 ### 📫 Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/robotomize)
