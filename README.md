@@ -1,8 +1,8 @@
 ## Hi everyone 👋
-Software engineer 🧑💻. I have experience in creating web services, telegram bots, analytical tools
 
-### List
+### My list of projects
 - [go-allure](https://github.com/robotomize/go-allure) - convert go test to [allure](https://github.com/allure-framework)
+- [go-printenv](https://github.com/robotomize/go-printenv) - A command line utility that displays the environment variables used by a Go project
 - [Bloops](https://bloops.ru) - 🤖 Telegram bot for offline quizzes with your friends
 - [Cribe](https://github.com/robotomize/cribe) - is a telegram bot for downloading youtube videos
 - [Ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - is a telegram bot for getting local time in location
