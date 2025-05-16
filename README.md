@@ -7,5 +7,4 @@
 - [ohmytime-bot](https://github.com/robotomize/ohmytime-bot) - is a telegram bot for getting local time in location
 - [t2r-bot](https://github.com/robotomize/t2r-bot) - get tor relays
 - [go-ratelimiter](https://github.com/robotomize/go-ratelimiter) - rate limit package
-- [gokuu](https://github.com/robotomize/gokuu) currency exchange package
-- [sod](https://github.com/robotomize/sod) - anomaly detection service
+- [buildinfo](https://github.com/robotomize/buildinfo) - buildinfo
